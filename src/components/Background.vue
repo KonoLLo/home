@@ -45,7 +45,7 @@ const changeBg = (type) => {
   } else if (type == 2) {
     bgUrl.value = "https://api.vvhan.com/api/wallpaper/views";
   } else if (type == 3) {
-    bgUrl.value = "https://api.vvhan.com/api/wallpaper/acg";
+    bgUrl.value = "https://api.hanximeng.com/ranimg/api.php";
   }
 };
 
